@@ -2,6 +2,8 @@
 
 A small Python web scraper that collects job postings from the [Real Python Fake Jobs](https://realpython.github.io/fake-jobs/) practice site and saves them to a CSV file.
 
+**Project URL:** https://github.com/akankshagowri/JOBSCRAPPER
+
 ## Features
 
 - Extracts four fields for every job posting:
@@ -26,8 +28,8 @@ A small Python web scraper that collects job postings from the [Real Python Fake
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/akankshagowri/JOBSCRAPPER.git
+cd JOBSCRAPPER
 pip install requests beautifulsoup4
 ```
 
