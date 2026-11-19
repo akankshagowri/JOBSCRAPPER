@@ -2,7 +2,9 @@
 
 A small Python web scraper that collects job postings from the [Real Python Fake Jobs](https://realpython.github.io/fake-jobs/) practice site and saves them to a CSV file.
 
-**Project URL:** https://github.com/akankshagowri/JOBSCRAPPER
+**Project URL:** https://roadmap.sh/projects/job-listings-scraper
+
+**GitHub Repository:** https://github.com/akankshagowri/JOBSCRAPPER
 
 ## Features
 
